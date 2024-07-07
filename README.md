@@ -1,7 +1,11 @@
 # Resume Parser
 
 This repository contains a Python script that reads a resume (in PDF or DOCX format), parses its content, and outputs the result in JSON format.
-
+## Prompt to ChatGPT
+- I need you to parse the content of a resume into JSON format. Here is the content of the resume:
+- [Paste the content of the resume here]
+- Please extract the relevant details like name, contact information, education, work experience, skills, and any other pertinent sections, and format them into JSON.
+  
 ## Features
 - Parse resumes in PDF and DOCX formats.
 - Output parsed content in a structured JSON format.
